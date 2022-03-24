@@ -72,7 +72,7 @@ Introduction to DC/DC converters ([PDF]({{< baseurl >}}/resources/ch5))
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Introduction to magnetics (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.0 MB]({{< baseurl >}}/resources/ch6))
+Introduction to magnetics ([PDF - 2.0 MB]({{< baseurl >}}/resources/ch6))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -81,7 +81,7 @@ Introduction to magnetics (![This resource may not render correctly in a screen 
 7
 {{< tdclose >}}
 {{< tdopen >}}
-Isolated DC/DC converters (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/ch7))
+Isolated DC/DC converters ([PDF]({{< baseurl >}}/resources/ch7))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -90,7 +90,7 @@ Isolated DC/DC converters (![This resource may not render correctly in a screen 
 8
 {{< tdclose >}}
 {{< tdopen >}}
-Modeling and control (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.9 MB]({{< baseurl >}}/resources/ch8))
+Modeling and control ([PDF - 1.9 MB]({{< baseurl >}}/resources/ch8))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -99,7 +99,7 @@ Modeling and control (![This resource may not render correctly in a screen reade
 9
 {{< tdclose >}}
 {{< tdopen >}}
-Inverters (DC/AC converters) (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.6 MB]({{< baseurl >}}/resources/ch9))
+Inverters (DC/AC converters) ([PDF - 1.6 MB]({{< baseurl >}}/resources/ch9))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -108,7 +108,7 @@ Inverters (DC/AC converters) (![This resource may not render correctly in a scre
 10
 {{< tdclose >}}
 {{< tdopen >}}
-Switching-mode rectifiers (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/ch10))
+Switching-mode rectifiers ([PDF]({{< baseurl >}}/resources/ch10))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -117,7 +117,7 @@ Switching-mode rectifiers (![This resource may not render correctly in a screen 
 11
 {{< tdclose >}}
 {{< tdopen >}}
-Switching losses and snubbers (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/ch11))
+Switching losses and snubbers ([PDF]({{< baseurl >}}/resources/ch11))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -126,7 +126,7 @@ Switching losses and snubbers (![This resource may not render correctly in a scr
 12
 {{< tdclose >}}
 {{< tdopen >}}
-Soft-switching techniques (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/ch12))
+Soft-switching techniques ([PDF]({{< baseurl >}}/resources/ch12))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -135,7 +135,7 @@ Soft-switching techniques (![This resource may not render correctly in a screen 
 13
 {{< tdclose >}}
 {{< tdopen >}}
-Thermal modeling and heat sinking (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/ch13))
+Thermal modeling and heat sinking ([PDF]({{< baseurl >}}/resources/ch13))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -144,7 +144,7 @@ Thermal modeling and heat sinking (![This resource may not render correctly in a
 14
 {{< tdclose >}}
 {{< tdopen >}}
-EMI (electromagnetic interference) filtering (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/ch14))
+EMI (electromagnetic interference) filtering ([PDF]({{< baseurl >}}/resources/ch14))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -153,7 +153,7 @@ EMI (electromagnetic interference) filtering (![This resource may not render cor
 15
 {{< tdclose >}}
 {{< tdopen >}}
-Three-phase systems (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.0 MB]({{< baseurl >}}/resources/ch15))
+Three-phase systems ([PDF - 1.0 MB]({{< baseurl >}}/resources/ch15))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -162,7 +162,7 @@ Three-phase systems (![This resource may not render correctly in a screen reader
 16
 {{< tdclose >}}
 {{< tdopen >}}
-Resonant converters and RF (radio frequency) power circuits (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.6 MB]({{< baseurl >}}/resources/ch16))
+Resonant converters and RF (radio frequency) power circuits ([PDF - 1.6 MB]({{< baseurl >}}/resources/ch16))
 {{< tdclose >}}
 
 {{< trclose >}}
